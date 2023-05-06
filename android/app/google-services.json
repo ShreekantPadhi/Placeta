@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463390983188",
+    "project_id": "placeta-7459e",
+    "storage_bucket": "placeta-7459e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463390983188:android:31a60b79910ae01a1e9301",
+        "android_client_info": {
+          "package_name": "com.example.placeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463390983188-vk7cmokbfe6db94mhis94jb8o4couetu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSP9_kfrsjOX6Ma7dgHoMf5Mh3JybvJxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463390983188-vk7cmokbfe6db94mhis94jb8o4couetu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
